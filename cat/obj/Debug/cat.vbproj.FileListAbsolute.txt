@@ -1,0 +1,10 @@
+G:\hospital\cat\cat\bin\cat.dll.config
+G:\hospital\cat\cat\bin\cat.dll
+G:\hospital\cat\cat\bin\cat.pdb
+G:\hospital\cat\cat\bin\cat.xml
+G:\hospital\cat\cat\obj\Debug\cat.Resources.resources
+G:\hospital\cat\cat\obj\Debug\cat.vbproj.GenerateResource.Cache
+G:\hospital\cat\cat\obj\Debug\cat.dll
+G:\hospital\cat\cat\obj\Debug\cat.xml
+G:\hospital\cat\cat\obj\Debug\cat.pdb
+G:\hospital\cat\cat\obj\Debug\cat.vbprojResolveAssemblyReference.cache
